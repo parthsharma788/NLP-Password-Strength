@@ -71,6 +71,7 @@ Include more complex password features (e.g., entropy, dictionary words).
 
 Build a web app for real-time password strength checking.
 
-### 👤 Author
-Parth Sharma 
-parthsharma2300@gmail.com
+👤 Author: Parth Sharma 
+📧 Email: Parthsharma2300@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
+⭐ If you found this helpful, consider giving it a star!
